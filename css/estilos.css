@@ -1,12 +1,17 @@
 body{
-    color: #272727;
+    color: white;
     text-align: center;
     font-family: "Arial";
+    background-color: darkslategray;
+}
+
+p{
+    margin: 0;
 }
 
 #container{
     width: 70%;
-    padding: 10px;
+    padding: 0px;
     border: 1px solid darkseagreen;
     margin: 0 auto;
     font-size: 16px;
@@ -14,4 +19,15 @@ body{
 
 #container h1{
     font-size: 20px;
+}
+
+#header{
+    height: 60px;
+    background-color: cornflowerblue;
+    border-bottom: solid 20px mediumspringgreen;
+    color: palegreen;
+    font-size: 30px;
+    font-family: sans-serif;
+    margin: 0;
+    text-align: left;
 }
