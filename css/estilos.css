@@ -31,3 +31,10 @@ p{
     margin: 0;
     text-align: left;
 }
+.footer{
+    background-color: cornflowerblue;
+    height: 100px;
+    color: white;
+    border-top: solid 10px lawngreen;
+    font-size: 30px;
+}
